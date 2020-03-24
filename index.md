@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta name="google-site-verification" content="9RhQPST_C4khIUIEY1DwMvr75pdkFu5OWRvmdWG3kO0" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 <body>
 
